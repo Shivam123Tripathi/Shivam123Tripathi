@@ -3,10 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam123tripathi&label=Profile%20views&color=0e75b6&style=flat" alt="shivam123tripathi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam123tripathi" alt="shivam123tripathi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shivam86331770" target="blank"><img src="https://img.shields.io/twitter/follow/shivam86331770?logo=twitter&style=for-the-badge" alt="shivam86331770" /></a> </p>
+
+- 🌱 I’m currently learning **Springboot**
+
+- 📫 How to reach me **s.shivamtripathi13@gmail.com**
+
+- ⚡ Fun fact **I think i am fitness freak :p**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/shivam86331770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivam86331770" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shivam-tripathi-b14141238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivam-tripathi-b14141238/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/shivamtripathi7509/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shivamtripathi7509/" height="30" width="40" /></a>
 </p>

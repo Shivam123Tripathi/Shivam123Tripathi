@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/shivam86331770" target="blank"><img src="https://img.shields.io/twitter/follow/shivam86331770?logo=twitter&style=for-the-badge" alt="shivam86331770" /></a> </p>
 
-- 🌱 I’m currently learning **Springboot**
+- 🌱 I’m currently buildingn projects and solving DSA.
 
 - 📫 How to reach me **s.shivamtripathi13@gmail.com**
 
-- ⚡ Fun fact **I think i am fitness freak :p**
+- ⚡ Fun fact **I am fitness freak :p**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **s.shivamtripathi13@gmail.com**
 
-- ⚡ Fun fact **I am fitness freak :p**
+- ⚡ Fun fact **I am fitness freak!!p**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

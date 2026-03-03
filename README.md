@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shivam86331770" target="blank"><img src="https://img.shields.io/twitter/follow/shivam86331770?logo=twitter&style=for-the-badge" alt="shivam86331770" /></a> </p>
 
-- 🌱 I’m currently building projects and solving DSA to enhance my problem solving skills.
+- 🌱 I’m currently building real world enterprise level projects to enhance my programming and thinking capability,Also using AI LLM's to become more productive and stay updates with AI ecosystem.
 
 - 📫 How to reach me **s.shivamtripathi13@gmail.com**
 

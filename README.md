@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Shivam Tripathi</h1>
-<h3 align="center">I am a Full Stack Java Developer.</h3>
+<h1 align="center">Heyy there 👋, I'm Shivam Tripathi</h1>
+<h3 align="center">I am a Full Stack Java  Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam123tripathi&label=Profile%20views&color=0e75b6&style=flat" alt="shivam123tripathi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shivam86331770" target="blank"><img src="https://img.shields.io/twitter/follow/shivam86331770?logo=twitter&style=for-the-badge" alt="shivam86331770" /></a> </p>
 
-- 🌱 I’m currently building real world enterprise level projects to enhance my programming and thinking capability,Also using AI LLM's to become more productive and stay updates with AI ecosystem.
+- 🌱 I’m currently building real world enterprise level projects as an Software Developer to enhance my programming and thinking capability,Also using AI LLM's to become more productive and stay updates with AI ecosystem.
 
 - 📫 How to reach me **s.shivamtripathi13@gmail.com**
 
